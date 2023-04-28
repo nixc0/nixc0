@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixc0&label=Profile%20views&color=0e75b6&style=flat" alt="nixc0" /> </p>
 
-- 🔭 I’m currently working on [Cloud Resume Challenge](https://curtisnix.name/resume.html)
+- 🔭 I’m currently working on [Cloud Resume Challenge]((https://github.com/nixc0/cloud-resume-challenge))
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, AWS**
 
