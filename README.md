@@ -3,11 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixc0&label=Profile%20views&color=0e75b6&style=flat" alt="nixc0" /> </p>
 
-- 🔭 I’m currently working on [Cloud Resume Challenge](https://github.com/nixc0/cloud-resume-challenge)
+- 🔭 I’m currently working on becoming a Kubestronaut. CKS in progress..
+-  [x] CKA
+-  [ ] CKAD
+-  [ ] CKS
+-  [ ] KCNA
+-  [x] KCSA
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, AWS**
 
-- 👨‍💻 All of my projects are available at [https://curtisnix.name](https://curtisnix.name)
+- 👨‍💻 All of my info is available at [https://curtisnix.name](https://curtisnix.name)
+
+- 🔭 Previous project [Cloud Resume Challenge](https://github.com/nixc0/cloud-resume-challenge)
 
 - 📫 How to reach me **curtis.nix@proton.me**
 
