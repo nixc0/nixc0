@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixc0&label=Profile%20views&color=0e75b6&style=flat" alt="nixc0" /> </p>
 
-- 🔭 I’m currently working on becoming a Kubestronaut. CKS in progress..
+- 🔭 I’m currently working on becoming a Kubestronaut. CKS is in progress to be taken in July, 2024.
 -  [x] CKA
 -  [ ] CKAD
 -  [ ] CKS
 -  [ ] KCNA
 -  [x] KCSA
 
-- 🌱 I’m currently learning **Terraform, Kubernetes, AWS**
+- 🌱 I’m currently learning **Terraform, Kubernetes, Helm, AWS**
 
 - 👨‍💻 All of my info is available at [https://curtisnix.name](https://curtisnix.name)
 
