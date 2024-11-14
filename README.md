@@ -7,7 +7,7 @@
 -  [x] CKA
 -  [ ] CKAD
 -  [ ] CKS
--  [ ] KCNA
+-  [x] KCNA
 -  [x] KCSA
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, Helm, AWS**
