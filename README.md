@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on becoming a Kubestronaut. CKS and CKAD planned to be taken before end of 2024.
 
 -  [x] CKA
--  [ ] CKAD
+-  [x] CKAD
 -  [ ] CKS
 -  [x] KCNA
 -  [x] KCSA
