@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixc0&label=Profile%20views&color=0e75b6&style=flat" alt="nixc0" /> </p>
 
-- 🔭 I’m currently working on becoming a Kubestronaut. CKS and CKAD planned to be taken before end of 2024.
+- 🔭 I’m currently working on becoming a Kubestronaut. CKS to be taken in 2026.
 
 -  [x] CKA
 -  [x] CKAD
@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, Helm, AWS**
 
-- 👨‍💻 All of my info is available at [https://curtisnix.name](https://curtisnix.name)
+- 👨‍💻 All of my info is available at [https://curtis.engineer/](https://curtis.engineer/)
 
 - 🔭 Previous project [Cloud Resume Challenge](https://github.com/nixc0/cloud-resume-challenge)
 
 - 📫 How to reach me **curtis.nix@proton.me**
 
-- 📄 Know about my experiences [https://curtisnix.name/resume.html](https://curtisnix.name/resume.html)
+- 📄 Here is my older portfolio site [https://curtisnix.name/resume.html](https://curtisnix.name/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
