@@ -1,38 +1,21 @@
-<h1 align="center">Hi 👋, I'm Curtis Nix</h1>
-<h3 align="center">Cloud-native Engineer</h3>
+# Curtis Nix
 
-- 🔭 Currently focused on test automation and scanning validation on Fortinet's FortiCNAPP QA team
-- 🏗️ Building [curtis.engineer](https://curtis.engineer/) — personal site and AI lab
-- 🧪 Running on-prem LLM inference across llama.cpp and oMLX backends with a LiteLLM proxy
-- 📄 [Resume](https://curtis.engineer/files/resume.pdf)
+Open to senior Platform Engineer, Infrastructure Engineer, ML Platform Engineer, and SRE roles. Orlando, FL (remote preferred).
 
-### Certifications
+## What I'm actually building
 
-- CKAD, KCSA, KCNA
-- AWS Solutions Architect, AWS AI Practitioner
-- Argo Project Associate
-- CompTIA CySA+, Pentest+, SecurityX
+- **Bare-metal Talos Kubernetes** on three Lenovo M700s. Cilium with Gateway API, Longhorn distributed storage, kube-prometheus-stack, cert-manager + Let's Encrypt, ExternalDNS to Cloudflare. Self-hosted Forgejo (migrated off a decommissioned GitLab CE), an NVR stack, and self-hosted LLM agents all run on the same cluster.
+- **LLM and ASR benchmarks.** Quantitative evaluation harnesses for picking which models to run locally. Recent rounds include a 22-scenario Kubernetes-triage benchmark across 13 model+backend combos and an Apple-silicon ASR shootout measuring WER and real-time factor.
+- **Agent infrastructure.** Two long-running self-hosted agents on the Hermes Agent framework, with per-project Proton Pass credential vaults, custom pre-tool hooks layered over the framework's safety floor, and vcluster isolation for the cluster-resident agent.
 
-<i>CKA expired — not currently recertifying.</i>
+Full case studies and build logs at **[curtis.engineer](https://curtis.engineer/)** · [Resume PDF](https://curtis.engineer/files/resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/curtisnix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="curtisnix" height="30" width="40" /></a>
-</p>
+## Certifications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
-</p>
+CKAD · KCSA · KCNA · AWS Solutions Architect Associate · AWS AI Practitioner · Argo Project Associate · CompTIA CySA+ · Pentest+ · SecurityX
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nixc0&show_icons=true&locale=en" alt="nixc0" /></p>
+CKA expired and not recertifying.
+
+## Reach me
+
+[LinkedIn](https://linkedin.com/in/curtisnix/) · [curtis.engineer](https://curtis.engineer/)
